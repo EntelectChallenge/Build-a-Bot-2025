@@ -7,4 +7,9 @@ public enum CellContent
     Pellet = 2,
     ZookeeperSpawn = 3,
     AnimalSpawn = 4,
+    PowerPellet = 5,
+    ChameleonCloak = 6,
+    Scavenger = 7,
+    BigMooseJuice = 8,
 }
+

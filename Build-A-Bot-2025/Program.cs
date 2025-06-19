@@ -63,7 +63,7 @@ public class Program
         // Main game loop
         while (connection.State == HubConnectionState.Connected)
         {
-            if (botCommand == null || (int)botCommand.Action is < 1 or > 4)
+            if (botCommand == null || (int)botCommand.Action is < 1 or > 5)
                 continue;
 
             await connection.SendAsync("BotCommand", botCommand);

@@ -28,7 +28,7 @@ Please ensure to complete all these downloads and setup before the Build-A-Bot W
 - [Build-a-Bot 2024 Recording](https://forum.entelect.co.za/t/build-a-bot-workshop-1-july/1605/7)
 - [Build-a-Bot Repo](https://github.com/EntelectChallenge/Build-a-Bot-2025)
 - [Download Build-a-Bot Code as ZIP](https://github.com/EntelectChallenge/Build-a-Bot-2025/archive/refs/heads/step-3.zip)
-- [Build-a-Bot Slides]() TBC
+- [Build-a-Bot Slides](https://github.com/EntelectChallenge/Build-a-Bot-2025/blob/main/Build-a-Bot%202025.pdf)
 
 ## Zooscape Resources
 - [Zooscape Respository](https://github.com/EntelectChallenge/2025-Zooscape)
